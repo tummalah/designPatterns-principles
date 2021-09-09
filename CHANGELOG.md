@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/tummalah/designPatterns-principles/compare/v1.1.0...v1.2.0) (2021-09-09)
+
+
+### Features
+
+* **o.ts:** added code for open closed principle ([4cd3860](https://github.com/tummalah/designPatterns-principles/commit/4cd386065e6a463d502860e190130508918c97a8))
+
 ## 1.1.0 (2021-09-09)
 
 
