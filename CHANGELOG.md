@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/tummalah/designPatterns-principles/compare/v1.2.0...v1.3.0) (2021-09-09)
+
+
+### Features
+
+* **l.ts:** added code for Liskov Substitution principle ([b75591f](https://github.com/tummalah/designPatterns-principles/commit/b75591f7da55436fb74c77413214f6da18591f84))
+
 ## [1.2.0](https://github.com/tummalah/designPatterns-principles/compare/v1.1.0...v1.2.0) (2021-09-09)
 
 
