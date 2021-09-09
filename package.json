@@ -1,0 +1,28 @@
+{
+  "name": "designpatterns-principles",
+  "version": "1.0.0",
+  "description": "* **Contents**\r     * [**SOLID Principles**](SOLID/SOLID.md)",
+  "main": "index.js",
+  "scripts": {
+   "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tummalah/designPatterns-principles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tummalah/designPatterns-principles/issues"
+  },
+  "homepage": "https://github.com/tummalah/designPatterns-principles#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
