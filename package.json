@@ -4,7 +4,7 @@
   "description": "* **Contents**\r     * [**SOLID Principles**](SOLID/SOLID.md)",
   "main": "index.js",
   "scripts": {
-   "commit": "cz"
+    "commit": "cz"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/tummalah/designPatterns-principles#readme",
   "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
     "commitizen": "^4.2.4",
-    "cz-conventional-changelog": "^3.3.0"
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^7.0.2"
   },
   "config": {
     "commitizen": {
