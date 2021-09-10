@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/tummalah/designPatterns-principles/compare/v1.3.0...v1.4.0) (2021-09-10)
+
+
+### Features
+
+* **d.ts,posts.json:** added code for dependency injection principle ([61e68e6](https://github.com/tummalah/designPatterns-principles/commit/61e68e6e9da8d6d555e91ced9888fc77a341d9fe))
+* **l.ts:** added code for Interface seggregation principle ([7e175d3](https://github.com/tummalah/designPatterns-principles/commit/7e175d37665d2c6c0e66e2baf26759e80496a912))
+
 ## [1.3.0](https://github.com/tummalah/designPatterns-principles/compare/v1.2.0...v1.3.0) (2021-09-09)
 
 
