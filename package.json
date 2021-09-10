@@ -29,5 +29,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@types/node": "^16.9.1"
   }
 }

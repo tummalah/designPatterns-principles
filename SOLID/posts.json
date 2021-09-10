@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title":"Viruses",
+        "body":"Covid 19 is the new virus found in 2019",
+        "postedBy":"chinaGuy"
+    },
+    {
+        "id":2,
+        "title":"Job Opening",
+        "body":"Software Engineer with good experience",
+        "postedBy":"Google"
+    },
+    {
+        "id":3,
+        "title":"Cloud Conference 2021",
+        "body":"Learn what's new in Azure",
+        "postedBy":"Microsoft"
+    }
+]
