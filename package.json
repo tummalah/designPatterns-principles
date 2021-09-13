@@ -1,6 +1,6 @@
 {
   "name": "designpatterns-principles",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "* **Contents**\r     * [**SOLID Principles**](SOLID/SOLID.md)",
   "main": "index.js",
   "scripts": {

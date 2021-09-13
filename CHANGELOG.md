@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/tummalah/designPatterns-principles/compare/v1.4.0...v1.5.0) (2021-09-13)
+
+
+### Features
+
+* **singleton:** added singleton pattern ([575959a](https://github.com/tummalah/designPatterns-principles/commit/575959a0c74c51c2b250ae8c4a04eb73ce84350a))
+
 ## [1.4.0](https://github.com/tummalah/designPatterns-principles/compare/v1.3.0...v1.4.0) (2021-09-10)
 
 
