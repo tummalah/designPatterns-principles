@@ -2,6 +2,7 @@
 
 * **Contents**
     * [**SOLID Principles**](SOLID/SOLID.md)  
+    * [**Creational Design Patterns**](CREATIONAL-PATTERNS/PATTERN.md)  
 
 
 ---
