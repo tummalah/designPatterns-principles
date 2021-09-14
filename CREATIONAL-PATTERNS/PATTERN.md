@@ -1,7 +1,8 @@
 ### Creational Design Patterns
 * _Singleton_ Pattern [code](singleton/singleton2.ts)
-* _Factory_ Pattern [code](O.ts)
-* _Pool_ Pattern [code](L.ts)
+* _Factory_ Pattern [code](factory/OrdersFactory.ts)
+* _Pool_ Pattern [code](pool/pool.ts)  
+
 
 
 #### Singleton
@@ -11,6 +12,12 @@
 
 #### Factory
 * Factory pattern is usually a combination of single responsibilty and open/closed principles  
-* Delegation of creating objects to factory class so that the client does not have to know how the objects are built.  
+* Delegation of creating objects to factory class so that the client does not have to know how the objects are built. 
+
+#### Pool
+* Object pool pattern is usually a pool of pre-initialized objects whose initialization is heavyweight  
+* Everytime we need an object we take the one from the pool and replinish the pool when required 
+* Very commonly used in expensive operations like Database connections or RPC connections
+
 
 
