@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/tummalah/designPatterns-principles/compare/v1.6.0...v1.7.0) (2021-09-14)
+
+
+### Features
+
+* **pool:** added object pool pattern in Creational Patterns ([ea23159](https://github.com/tummalah/designPatterns-principles/commit/ea2315979160be06bd73be031b9df242922ef2c0))
+
 ## [1.6.0](https://github.com/tummalah/designPatterns-principles/compare/v1.5.0...v1.6.0) (2021-09-13)
 
 
