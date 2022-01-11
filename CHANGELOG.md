@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/tummalah/designPatterns-principles/compare/v1.7.0...v1.8.0) (2022-01-11)
+
+
+### Features
+
+* **di:** added DI pattern ([48aab70](https://github.com/tummalah/designPatterns-principles/commit/48aab707a565861f66c0634fc752ba5466b33fe3))
+* **di:** added DI pattern ([#1](https://github.com/tummalah/designPatterns-principles/issues/1)) ([d9f7c93](https://github.com/tummalah/designPatterns-principles/commit/d9f7c93cbcad87c674387cf5d8de1909b6c7211f))
+
 ## [1.7.0](https://github.com/tummalah/designPatterns-principles/compare/v1.6.0...v1.7.0) (2021-09-14)
 
 
