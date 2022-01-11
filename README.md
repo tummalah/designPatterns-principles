@@ -2,7 +2,8 @@
 
 * **Contents**
     * [**SOLID Principles**](SOLID/SOLID.md)  
-    * [**Creational Design Patterns**](CREATIONAL-PATTERNS/PATTERN.md)  
+    * [**Creational Design Patterns**](CREATIONAL-PATTERNS/PATTERN.md)
+    * [**Dependency Injection Pattern**](DI/PATTERN.md)
 
 
 ---
